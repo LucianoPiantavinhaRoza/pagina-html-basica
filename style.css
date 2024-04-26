@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css2?family=Comfortaa);
+
+/*
+- Vermelho Escuro - #3d0000
+- Vermelho Médio - #950101
+- Vermelho Claro - #f00000
+- Branco - #ffffff
+*/
+
+body {
+    background-color: #ffffff;
+    font-family: Comfortaa;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+strong {
+    color: #950101;
+}
+
+i {
+    color: #3d0000;
+}
+
+h1 {
+    color: #950101;
+    text-align: center;
+}
+
+h2 {
+    color: #950101;
+}
+
+h3 {
+    color: #f00000;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: #f00000;
+}
+
+#voltar {
+    color: #3d0000;
+}
